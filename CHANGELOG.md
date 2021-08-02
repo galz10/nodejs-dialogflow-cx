@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.13.0](https://www.github.com/googleapis/nodejs-dialogflow-cx/compare/v2.12.1...v2.13.0) (2021-08-02)
+
+
+### Features
+
+* add advanced settings for agent level feat: add rollout config, state and failure reason for experiment feat: add insights export settings for security setting feat: add language code for streaming recognition result and flow versions for query p... ([#156](https://www.github.com/googleapis/nodejs-dialogflow-cx/issues/156)) ([80d2f94](https://www.github.com/googleapis/nodejs-dialogflow-cx/commit/80d2f94bcfaa65ea442ee4f8133d850035be04ed))
+
 ### [2.12.1](https://www.github.com/googleapis/nodejs-dialogflow-cx/compare/v2.12.0...v2.12.1) (2021-07-21)
 
 
